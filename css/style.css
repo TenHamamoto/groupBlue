@@ -61,3 +61,7 @@ footer a:hover{
   width: 200px;
   height: 200px;
 }
+
+.container.cards.my-5 .row .col-md-4:last-child img {
+  height: 415px
+}
