@@ -6,8 +6,8 @@
 
 body {
   padding-top: 100px;
-  --key-color: #8e44ad;
-  --sub-color: #7e349d;
+  --key-color: #C60000;
+  --sub-color: #C60000;
   scroll-behavior: smooth;
   padding-top: 72px;
 }
@@ -46,7 +46,7 @@ ul {
 }
 
 footer a{
-  color: #8e44ad;
+  color: #C60000;
 }
 
 footer a:hover{
