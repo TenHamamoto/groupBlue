@@ -56,3 +56,8 @@ footer a:hover{
 .topics .col-lg-4 {
   scroll-margin-top: 50vw;
 }
+
+.container.topics > ul > li:nth-of-type(3) > img {
+  width: 200px;
+  height: 200px;
+}
